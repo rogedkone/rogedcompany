@@ -1,0 +1,26 @@
+﻿# Creatures/Существа
+
+Baboon hawk=Бабуиновый ястреб
+Bracken=Брэкен
+Flowerman=Брэкен
+Bracken=Брэкен
+Bunker spider=Бункерный паук
+Circuit bees=Электропчелы
+Coil-head=Пружиноголовый
+Earth leviathan=Левиафан
+Eyeless dog=Слепая собака
+Forest giant=Хранитель леса
+Forest keeper=Хранитель леса
+Ghost girl=Призрачная девочка
+Hoarding bug=Жук-собиратель
+Hygrodere=Гидродер
+Jester=Джестер
+Landmine=Противопехотная мина
+Manticoil=Мантикоил
+Roaming locusts=Блуждающая саранча
+Snare flea=Удушающая многоножка
+Spore lizard=Споровик
+Thumper=Тампер
+Turret=Турель
+Spring=Пружинно-головый
+Centipede=Многоножка

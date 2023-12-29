@@ -1,0 +1,143 @@
+Grab : [E]=Подобрать: [E]
+
+Walk : [W/A/S/D]=Передвижение: [W/A/S/D]
+Sprint: [Shift]=Бег: [Shift]
+Scan : [RMB]=Сканирование: [ПКМ]
+
+Ring bell: [E]=Использовать звонок: [E]
+
+Open hatch : [E]=Использовать люк: [E]
+
+Climb : [E]=Использовать лестницу: [E]
+
+Use ladder : [E]=Использовать лестницу: [E]
+Let go : [E]=Отпустить лестницу: [E]
+
+Get log : [E]=Подобрать запись [E]
+
+Press "/" to talk.="/", открыть чат.
+Typing...=Ввод текста...
+
+Pull switch : [E]=Вкл/Выкл свет: [E]
+
+Start game : [E]=Начать игру: [E]
+
+Enter : [E]=Войти: [E]
+Exit : [E]=Выйти: [E]
+
+Use door : [E]=Использовать: [E]
+
+Locked=Заперто
+
+Disable speaker: [E]=Отключить динамик: [E]
+
+Start ship : [E]=Запустить корабль: [E]
+
+Confirm: [B]   |   Rotate: [R]   |   Store: [X]=Подтвердить: [B]   | Вращать: [R]  |  На склад: [X]
+
+Flush: [E]=Смыть : [E]
+
+Open : [E]=Использовать: [Е]
+
+Hit pumpkin : [E]=Пнуть тыкву: [E]
+
+Use ladder : [E]=Использовать: [E]
+
+Play record: [E]=Воспроизвести пластинку: [E]
+
+Switch water: [E]=Переключить воду: [E]
+
+Sell item : [E]=Продать предмет: [E]
+
+Charge item : [E]=Зарядить предмет: [E]
+
+Beam up : [E]=Запустить: [E]
+
+Get log : [E]=Подобрать запись: [E]
+
+Open hatch: [E]=Использовать: [E]
+
+Loading...=Загрузка...
+Autosaving...=Автосохранение...
+Started server, joining...=Сервер запущен, присоединение...
+
+DOOR HYDRAULICS:=ГИДРАВЛИКА ШЛЮЗА:
+
+SYSTEMS ONLINE=СИСТЕМЫ В НОРМЕ
+
+VISIBILITY LOW!\n\nSteam leak detected in area=НИЗКАЯ ВИДИМОСТЬ! Обнаружена утечка пара в вашей зоне.
+
+[Cannot pull valve]=[Не удаётся провернуть клапан]
+
+CRITICAL INJURY=КРИТИЧЕСКАЯ ТРАВМА
+
+(Cannot hold until ship has landed)=(Нельзя подобрать, пока корабль не приземлится)
+
+(Requires battery-powered item)=(Требуется устройство с аккумулятором)
+
+Open door : [E]=Открыть дверь: [E]
+Close door : [E]=Закрыть дверь: [E]
+
+Switch lights : [E]=Вкл/Выкл свет: [E]
+
+Pull cord: [E] (Hold)=Потянуть за шнур: [E] (Удерживать)
+
+[Pulling cord]=[Тянет за шнур]
+
+Switch camera : [E]=Переключить камеру: [E]
+Turn on/off : [E]=Включить/выключить: [E]
+
+Access terminal : [E]=Войти в терминал: [E]
+
+Quit terminal : [TAB]=Выйти из терминала: [TAB]
+
+Change: Green suit=Изменить на: зелёный костюм
+Change suit=Изменить на: оранжевый костюм
+Change: Pajama suit=Изменить на: пижамный костюм
+Change: Hazard suit=Изменить на: защитный костюм
+
+Set candles: [E]=Зажечь/потушить свечи: [E]
+
+Lift glass : [E]=Поднять/опустить крышку: [E]
+
+[ Not holding items ]=[Нет предмета в руках]
+
+[Nothing to store]=[Нечего положить]
+
+HANDS FULL=РУКИ ЗАНЯТЫ
+
+EMPLOYEE RANK=РАНГ СОТРУДНИКА
+
+New creature data sent to terminal!=Данные о новом организме отправлены в терминал!
+
+You did not meet the profit quota before the deadline.=Вы не достигли минимальной квоты до окончания срока.
+YOU ARE FIRED.=ВЫ УВОЛЕНЫ.
+
+Tell autopilot ship to leave early : [RMB] (Hold)=Уведомить автопилот улететь раньше: [RMB] (Удерживайте)
+
+Paycheck!=Зарплата!
+
+[LIFE SUPPORT: OFFLINE]=[ЖИЗНЕОБЕСПЕЧЕНИЕ: ОТКЛЮЧЕНО]
+
+(Dead)=(Мёртв)
+
+PERFORMANCE REPORT=ОТЧЁТ О РАБОТЕ
+
+PILOT COMPUTER=БОРТОВОЙ КОМПЬЮТЕР
+WARNING!!! The autopilot ship will leave at midnight. Please return quickly.=ВНИМАНИЕ!!!\nКорабль улетит в полночь.\nПожалуйста, вернитесь на борт.
+Warning! No response from crew, which has not returned. Emergency code activated.=Внимание! \nЭкипаж не отвечает и не возвращается. \nАктивирован аварийный код.
+The autopilot will now attempt to fly to the closest safe spaceport. Your items have been lost.=Автопилот попытается долететь до ближайшего космопорта. \nВаши вещи были потеряны.
+Ship leaving in one hour=Корабль улетит через один час
+Alert! The autopilot is leaving due to dangerous conditions.=Внимание! Автопилот покидает поверхность в связи с опасными условиями.
+The Company must minimize risk of damage to proprietary hardware. Goodbye!=Компания должна минимизировать риск повреждения оборудования. До свидания!
+
+2 Days Left=Осталось 2 дня
+1 Days Left=Остался 1 день
+
+[Wait for ship to land]=[Подождите, корабль совершает манёвр]
+
+
+
+
+
+
